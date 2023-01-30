@@ -1,5 +1,6 @@
-# baseurl: ""
-# url: "https://karthik-ragunath.github.io"
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://karthik-ragunath.github.io/profile"
 
 title: Karthik Ragunath Ananda Kumar
 description: Resume
