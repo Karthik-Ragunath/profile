@@ -1,2 +1,2 @@
 # profile
-theme: minima
+theme: cayman
