@@ -1,3 +1,6 @@
+baseurl: ""
+url: "https://karthik-ragunath.github.io"
+
 title: Karthik Ragunath Ananda Kumar
 description: Resume
 theme: jekyll-theme-cayman
