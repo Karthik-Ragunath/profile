@@ -4,6 +4,7 @@ url: "https://karthik-ragunath.github.io/profile"
 
 title: Karthik Ragunath Ananda Kumar
 description: Resume
+theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
