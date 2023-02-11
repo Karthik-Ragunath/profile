@@ -21,7 +21,7 @@
 title: Resume
 email: a.karthikragunath@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a tryout - 1.
+  Just a tryout - 2.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karthik-ragunath.github.io/profile" # the base hostname & protocol for your site, e.g. http://example.com
 
